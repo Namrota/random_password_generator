@@ -8,10 +8,7 @@ validation.
 
 import random
 import string
-# special characters in string
-from string import punctuation
-# Numbers
-from string import digits
+
 '''
 # testing
 print(punctuation)
